@@ -1,0 +1,12 @@
+[
+  {
+    "subject": "Java",
+    "attended": 45,
+    "total": 60
+  },
+  {
+    "subject": "DBMS",
+    "attended": 40,
+    "total": 55
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "subject": "Java",
+    "attended": 25,
+    "total": 30
+  },
+  {
+    "id": 2,
+    "subject": "Python",
+    "attended": 20,
+    "total": 25
+  },
+  {
+    "id": 3,
+    "subject": "React",
+    "attended": 18,
+    "total": 22
+  },
+  {
+    "id": 4,
+    "subject": "Node.js",
+    "attended": 15,
+    "total": 20
+  }
+]
